@@ -1,0 +1,10 @@
+FilenameParts:
+  - unity
+
+FolderParts:
+  - Cybersec
+  - CyberSecurity
+  - Libs
+  - Security
+  - BridgeClownsCrowned
+  - BazelContentsCache

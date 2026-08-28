@@ -5,6 +5,10 @@ a general-purpose folder diff tool.
 
 ## Scripts
 
+### `DriveArchive.ps1`
+Backs up complete drives with backup mechanisms and so on.
+Refer to the `README_DriveArchive_EXAMPLES.md`
+
 ### `check_synchronized.ps1`
 Runs a real Robocopy mirror-style copy from `F:\Backups\SwaggerDriveBackup`
 to `D:\` (multi-threaded, `/MT:64`, copies data/attributes/timestamps,
