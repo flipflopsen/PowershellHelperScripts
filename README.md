@@ -4,6 +4,10 @@ A collection of Windows PowerShell utility scripts, organized by category.
 Each folder contains its own `README.md` with a description and usage
 examples for the scripts inside.
 
+## Important Note
+I would personally recommend trying out the [`FolderDiff.ps1`](BackupAndSync/FolderDiff.ps1).
+Put some decent work into it to recursively get the diffs of folders and their files in a relatively good readable format. Helped me a lot when I needed it! 
+
 ## Categories
 
 | Folder | Description |
