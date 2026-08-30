@@ -39,3 +39,18 @@ Put some decent work into it to recursively get the diffs of folders and their f
 * Administrator privileges for scripts that modify system-level state
 * Robocopy (built into Windows) for `BackupAndSync` scripts
 * WSL installed for scripts in `WSL/`
+
+## License
+Copyright (C) 2026 Philip Weber
+
+This project is free software: you can redistribute it and/or modify it under
+the terms of the GNU General Public License as published by the Free Software
+Foundation, either version 3 of the License, or (at your option) any later
+version.
+
+This project is distributed in the hope that it will be useful, but WITHOUT
+ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with
+this project. If not, see <https://www.gnu.org/licenses/>.
